@@ -1,0 +1,10 @@
+{
+  "spreadsheetId": "YOUR_SPREADSHEET_ID",
+  "urls": {
+    "upravlenka": "https://docs.google.com/spreadsheets/d/YOUR_ID/export?format=csv&gid=0",
+    "inventory": "https://docs.google.com/spreadsheets/d/YOUR_ID/export?format=csv&gid=1",
+    "clients": "https://docs.google.com/spreadsheets/d/YOUR_ID/export?format=csv&gid=2",
+    "purchases": "https://docs.google.com/spreadsheets/d/YOUR_ID/export?format=csv&gid=3",
+    "chocolate": "https://docs.google.com/spreadsheets/d/YOUR_ID/export?format=csv&gid=4"
+  }
+}
