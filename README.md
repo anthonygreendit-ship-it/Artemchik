@@ -2,15 +2,18 @@
 
 Dashboard для торговой компании (замороженные ягоды): пульс, план продаж, сделки, деньги, ROI, дебиторка, склад.
 
-## Запуск
+## Запуск (локально)
 
 ```bash
-cd ~/Projects/upravlenka-dashboard
-npm install
+cd upravlenka-dashboard
 npm run dev
 ```
 
-Откройте http://localhost:5173
+Откройте адрес из терминала (http://localhost:5173 или 5174).
+
+> Зависимости уже в репозитории (`node_modules/`). `npm install` нужен только если папки нет.
+
+**Развёртывание для друга:** см. [RAZVERTYVANIE.md](./RAZVERTYVANIE.md)
 
 ## Экраны
 
